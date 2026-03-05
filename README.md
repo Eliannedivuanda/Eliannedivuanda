@@ -3,14 +3,17 @@ je m'appelle Elianne.
 Je suis passionnée par la programmation et l'innovation numérique en République démocratique du Congo.
 Je développe des projets pour améliorer mes compétences en informatique.
 
-<!--
-**Eliannedivuanda/Eliannedivuanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-##competences 
+## Compétences 
 -HTML
 -CSS
 -javascrit
 -Github
+## Objectif 
+Améliorer mes compétences en programmation et participer à l'innovation numérique 
+<!--
+**Eliannedivuanda/Eliannedivuanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 Here are some ideas to get you started:
